@@ -19,7 +19,7 @@ export default {
         Poppins : ["Poppins"]
       },
       borderRadius: {
-        "big": "5rem"
+        "big": "7rem"
       }
     },
   },
