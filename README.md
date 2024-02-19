@@ -47,7 +47,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Alokray007/Age-Calculator-App-FM)
-- Live Site URL: [Netlify- Live Site](https://agecalcapp.netlify.app/)
+- Live Site URL: [Netlify- Live Site](https://agecalap.netlify.app/)
 
 ## My process
 
