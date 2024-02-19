@@ -19,7 +19,16 @@ export default {
         Poppins : ["Poppins"]
       },
       borderRadius: {
-        "big": "5rem"
+        "big": "7rem"
+      },
+      animation: {
+        animateNumber: 'animateNumber 1s ease forwards',
+      },
+      keyframes : {
+        animateNumber :{
+          '0%, 100%': { transform: 'translateY(-10px)' },
+          '50%': { transform: 'translateY(0)' },
+        }
       }
     },
   },
